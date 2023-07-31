@@ -1,0 +1,5 @@
+.custom-color {
+	/*background: linear-gradient(90deg, rgba(198,245,255,1) 0%, rgba(137,182,254,1) 28%, rgba(123,124,255,1) 58%, rgba(105,97,255,1) 87%, rgba(36,24,255,1) 100%);
+*/
+	background: radial-gradient(circle, rgba(112, 192, 255, 1) 0%, rgba(98, 153, 254, 1) 24%, rgba(123, 124, 255, 1) 49%, rgba(97, 124, 255, 1) 86%, rgba(36, 24, 255, 1) 100%);
+}
