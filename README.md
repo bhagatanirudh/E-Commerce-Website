@@ -30,6 +30,12 @@ Note: For demonstration purposes only, the payment page was developed; it is not
 - Tomcat
 - MySQL workbench
 
+###  Jar files used :
+- mysql-connector-j-8.0.31
+- angus-activation-2.0.1
+- jakarta.activation-api-2.1.2
+- jakarta.mail-2.0.1
+
 ## Screenshot of projects:-
 Home Page
 ![home_page](https://github.com/bhagatanirudh/JSP-Servlet_Projects/assets/87819222/9f5fe55b-d3da-4cfa-9b4e-ac79f80dea45)
