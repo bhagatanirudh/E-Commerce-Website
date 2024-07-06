@@ -17,17 +17,17 @@ Note: For demonstration purposes only, the payment page was developed; it is not
 - BootStrap
 
 2. Back-End Development:
-- Java 
+- Java 17
 -	JDBC (Java Database Connectivity)
 -	Servlet
 -	JSP (JavaServer Pages)
 
 3. Database:
-- MySql
+- MySql (8.0)
 
 4. Software and Tools
 - Eclipse EE
-- Tomcat
+- Tomcat 10
 - MySQL workbench
 
 ###  Jar files used :
