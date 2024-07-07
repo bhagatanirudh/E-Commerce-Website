@@ -40,7 +40,7 @@ CREATE TABLE `admin` (
 
 LOCK TABLES `admin` WRITE;
 /*!40000 ALTER TABLE `admin` DISABLE KEYS */;
-INSERT INTO `admin` VALUES (1,'Anirudh Bhagat','anirudh1713@gmail.com','abc123','7755632012'),(4,'Ashish Kumar','ashish12@gmail.com','abc','8565452152');
+INSERT INTO `admin` VALUES (1,'Anirudh kumar','test@gmail.com','abc123','7755632012'),(4,'Ashish Kumar','test34@gmail.com','abc','8565452152');
 /*!40000 ALTER TABLE `admin` ENABLE KEYS */;
 UNLOCK TABLES;
 
@@ -222,7 +222,7 @@ CREATE TABLE `user` (
 
 LOCK TABLES `user` WRITE;
 /*!40000 ALTER TABLE `user` DISABLE KEYS */;
-INSERT INTO `user` VALUES (1,'Anirudh Kumar','anirudhkumar00017@gmail.com','abc123','7546254260','Male','2023-09-24 05:22:11','krishna nagar','Boisar','401501','Maharashtra'),(3,'Amit','amt127@gmail.com','abc','8563201201','Male','2023-09-24 06:15:22','AJ','Banglore','865012','Karnataka');
+INSERT INTO `user` VALUES (1,'Anirudh Kumar','test786@gmail.com','abc123','7546254260','Male','2023-09-24 05:22:11','KN nagar','Patna','401980','Bihar'),(3,'Amit','amt677@gmail.com','abc','8563201201','Male','2023-09-24 06:15:22','AJ','Banglore','865012','Karnataka');
 /*!40000 ALTER TABLE `user` ENABLE KEYS */;
 UNLOCK TABLES;
 
