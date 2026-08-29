@@ -1,0 +1,18 @@
+# Ignore Git and IDE files
+.git
+.gitignore
+.vscode/
+.idea/
+
+# Ignore build artifacts that shouldn't be sent unless needed
+target/
+node_modules/
+*.log
+
+# Ignore local OS files
+.DS_Store
+Thumbs.db
+
+# Ignore other heavy or unnecessary files
+coverage/
+**/tmp/
